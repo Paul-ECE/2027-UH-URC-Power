@@ -1,0 +1,295 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad")
+	(paper "A4")
+	(title_block
+		(title "2027 UH URC Power Distribution Architecture")
+		(rev "1")
+		(company "University of Houston: Robotics Club")
+	)
+	(lib_symbols)
+	(sheet
+		(at 191.77 40.64)
+		(size 49.53 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "014d9672-8763-498a-a886-5c42ac10a637")
+		(property "Sheetname" "Drivetrain"
+			(at 191.77 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drivetrain.kicad_sch"
+			(at 191.77 78.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_URC_PowerDist_Schematics"
+				(path "/fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 46.99 80.01)
+		(size 41.91 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1b49d926-3575-48b1-b318-df87ce3a3bbd")
+		(property "Sheetname" "Compute_logic"
+			(at 46.99 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compute_logic.kicad_sch"
+			(at 46.99 112.3446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_URC_PowerDist_Schematics"
+				(path "/fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 96.52)
+		(size 52.07 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "342b2e36-0a1a-4a30-a641-903c18d68463")
+		(property "Sheetname" "Science Package"
+			(at 190.5 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SciPkg.kicad_sch"
+			(at 190.5 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_URC_PowerDist_Schematics"
+				(path "/fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 34.29)
+		(size 35.56 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5666b1d3-77c9-4097-9036-b079f9384c81")
+		(property "Sheetname" "Power Distribution Panel"
+			(at 43.18 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PDP.kicad_sch"
+			(at 43.18 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_URC_PowerDist_Schematics"
+				(path "/fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 39.37)
+		(size 31.75 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5a7cb947-2247-4156-beec-838faf348bf9")
+		(property "Sheetname" "Communication_Navigation"
+			(at 113.03 38.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Comms_navi.kicad_sch"
+			(at 113.03 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_URC_PowerDist_Schematics"
+				(path "/fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 115.57 82.55)
+		(size 39.37 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5ff5b50f-eee3-4a3b-ac9b-befa1ec57151")
+		(property "Sheetname" "Robotic Arm"
+			(at 115.57 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RoboArm.kicad_sch"
+			(at 115.57 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_URC_PowerDist_Schematics"
+				(path "/fd8c7071-b33a-4fc3-9bc7-d70ab334b5ad"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

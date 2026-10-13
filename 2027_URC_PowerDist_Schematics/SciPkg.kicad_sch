@@ -1,0 +1,11 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "2029b60f-e880-4412-972c-02612d975f15")
+	(paper "A4")
+	(title_block
+		(company "University of Houston: Robotics Club")
+	)
+	(lib_symbols)
+)
