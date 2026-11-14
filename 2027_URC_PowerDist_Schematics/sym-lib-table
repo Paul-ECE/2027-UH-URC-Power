@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PDP_Drivetrain_Library") (type "KiCad") (uri "C:/Users/Black/Documents/PDP_Drivetrain_Library.kicad_sym") (options "") (descr ""))
+	(lib (name "New_Library") (type "KiCad") (uri "C:/Users/Black/Documents/KiCad/10.0/projects/New_Library.kicad_sym") (options "") (descr ""))
+)
